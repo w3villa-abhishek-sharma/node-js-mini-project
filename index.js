@@ -13,7 +13,7 @@ app.use(express.json());
 
 
 // import all routes file
-app.use("/api/v1", require("./"))
+app.use("/api/v1", require("./routers/index"))
 
 
 app.listen(PORT, () => {
