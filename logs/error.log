@@ -1,1 +1,2 @@
 2023-06-28T12:52:34.170Z [right meow!] error: TypeError: Cannot read properties of null (reading 'password') from IP ==> ::ffff:127.0.0.1
+2023-06-29T06:12:26.196Z [right meow!] error: ReferenceError: username is not defined from IP ==> ::ffff:127.0.0.1
