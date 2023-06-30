@@ -28,7 +28,7 @@ const createUser = async (req, res) => {
         logger.log({ level: 'info', message: `${username} user register successfully`, ip: req.ip });
         return res.json({ status: true, token });
     } catch (error) {
-        console.log(error);
+        logger.log({ level: 'error', message: error, ip: req.ip });
         return res.status(500).json({ status: false, msg: "Internal server error" });
     }
 }
@@ -93,6 +93,8 @@ const getProfile = async (req, res) => {
         return res.status(500).json({ status: false, msg: "Internal server error" });
     }
 }
+
+// Login User
 const signIn = async (req, res) => {
     try {
         let { username, password } = req.body;

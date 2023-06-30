@@ -18,3 +18,22 @@
 2023-06-29T06:45:00.860Z [right meow!] info: abhishekpandit5599 your password forget successfully using 726944 otp. from IP ==> ::ffff:127.0.0.1
 2023-06-29T07:35:08.812Z [right meow!] info: abhishekpandit5599 your password forget successfully using 415833 otp. from IP ==> ::ffff:127.0.0.1
 2023-06-29T07:40:23.367Z [right meow!] info: abhishekpandit5599 your password update successfully using 816798 otp. from IP ==> ::ffff:127.0.0.1
+2023-06-30T08:03:15.015Z [right meow!] info: abhishekpandit9 user register successfully from IP ==> ::ffff:127.0.0.1
+2023-06-30T10:47:09.009Z [right meow!] info: abhishekpandit user register successfully from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:10:13.324Z [right meow!] info: unauthorized access from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:10:35.745Z [right meow!] info: abhishekpandit599 user try with invalid credentials from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:10:40.393Z [right meow!] info: abhishekpandit599 user login successfully from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:25:44.646Z [right meow!] error: TypeError: status is not a function from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:26:33.425Z [right meow!] error: TypeError: status is not a function from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:26:34.509Z [right meow!] error: TypeError: status is not a function from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:27:21.914Z [right meow!] error: TypeError: status is not a function from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:27:30.104Z [right meow!] error: TypeError: status is not a function from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:29:14.964Z [right meow!] error: ReferenceError: status is not defined from IP ==> ::ffff:127.0.0.1
+2023-06-30T11:29:24.675Z [right meow!] error: ReferenceError: status is not defined from IP ==> ::ffff:127.0.0.1
+2023-06-30T12:03:03.209Z [right meow!] info: unauthorized access from IP ==> ::ffff:127.0.0.1
+2023-06-30T12:09:36.920Z [right meow!] error: CastError: Cast to ObjectId failed for value "649ebd30d22ec8a4b317c89" (type string) at path "_id" for model "tasks" from IP ==> ::ffff:127.0.0.1
+2023-06-30T12:21:19.768Z [right meow!] info: unauthorized access from IP ==> ::ffff:127.0.0.1
+2023-06-30T12:21:30.979Z [right meow!] error: task not exist from IP ==> ::ffff:127.0.0.1
+2023-06-30T12:21:39.869Z [right meow!] error: abhishekpandit599 task not delete due to some internal reasons from IP ==> ::ffff:127.0.0.1
+2023-06-30T12:32:36.326Z [right meow!] info: unauthorized access from IP ==> ::ffff:127.0.0.1
+2023-06-30T12:32:49.235Z [right meow!] error: task not exist from IP ==> ::ffff:127.0.0.1
