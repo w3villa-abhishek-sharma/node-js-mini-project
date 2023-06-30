@@ -2,8 +2,8 @@ const jwt = require("jsonwebtoken");
 const bcrypt = require('bcrypt');
 const Users = require("../models/userModel");
 const NodeCache = require("node-cache");
-const logger = require("../middleware/logger");
-const sendMail = require("../middleware/sendEmail");
+const logger = require("../helper/logger");
+const sendMail = require("../helper/sendEmail");
 
 
 const cache = new NodeCache();

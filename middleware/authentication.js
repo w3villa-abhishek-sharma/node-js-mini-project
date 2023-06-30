@@ -1,7 +1,7 @@
 const jwt = require("jsonwebtoken");
 const Users = require("../models/userModel");
 const NodeCache = require("node-cache");
-const logger = require("./logger");
+const logger = require("../helper/logger");
 
 const cache = new NodeCache();
 

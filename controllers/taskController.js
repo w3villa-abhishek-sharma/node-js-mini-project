@@ -1,4 +1,4 @@
-const logger = require("../middleware/logger");
+const logger = require("../helper/logger");
 const NodeCache = require("node-cache");
 const Tasks = require("../models/taskModel");
 
